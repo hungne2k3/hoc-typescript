@@ -1,0 +1,20 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "learn typescript ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --converage"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Nguyen Manh Hung",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^29.5.13",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.6.2"
+  }
+}
