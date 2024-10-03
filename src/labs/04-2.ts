@@ -1,8 +1,11 @@
 const a = undefined;
 a.length();
 
-let b = [{
+let student;
+
+student = {
     id: 1,
-    name: 'hung',
-    address: 'ha nam'
-}];
+    name: 'Alice',
+};
+
+console.log(student.name);
